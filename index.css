@@ -1,0 +1,46 @@
+header {
+    background-color: #edf7f6;
+    color: #006989;
+    text-align: center;
+    padding: 30px;
+    margin: 0px;
+}
+
+body {
+    background-color: #aed9e0;
+    margin: 0px;
+}
+
+footer {
+    background-color: #767522;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+.underbox {
+    background-color: #e49273;
+    text-align: center;
+    border-radius: 30px;
+    padding-bottom: 30px;
+}
+
+.minorhead {
+    background-color: #767522;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.box {
+    background-color: white;
+    position: relative;
+    left: 40%;
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    border-radius: 20px;
+}
